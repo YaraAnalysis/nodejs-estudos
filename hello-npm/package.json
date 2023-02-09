@@ -12,4 +12,7 @@
     "node.js"
   ],
   "author": "Yara Vasconcellos",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
