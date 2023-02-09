@@ -12,8 +12,7 @@ while(controladorWhile < listaArgumentos.length){
     controladorWhile++
 }
 
-
-console.log('--------------- Executanto um DOWHILE ---------------');
+console.log('--------------- Executanto um DO WHILE ---------------');
 let controladoDoWhile = 0;
 do{
     console.log(`Posicao ${controladoDoWhile} vlor lido = ${listaArgumentos[controladoDoWhile]}`);
